@@ -1,0 +1,7 @@
+{
+  "name": "node-ts-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Diogo Borges <54003586+diogo7b@users.noreply.github.com>",
+  "license": "MIT"
+}
